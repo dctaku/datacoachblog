@@ -1,1 +1,2 @@
-ブログ(https://datacoach.me)記載のコードです。
+ブログ記載のコードです。
+https://datacoach.me
